@@ -30,7 +30,10 @@
 		술먹기<input type='checkbox' name='hobby' value='drinking'/>
 		요리<input type='checkbox' name='hobby' value='cook'/>
 		수영<input type='checkbox' name='hobby' value='swimming'/>
-		<br/>
+		<br/><br/>
+		자기소개:
+		<textarea name='profile'></textarea>
+		<br/><br/>
 		<input type='submit' value='회원가입'/>
 	</form>
 </body>
